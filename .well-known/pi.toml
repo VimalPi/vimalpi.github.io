@@ -1,0 +1,11 @@
+VERSION="2.0"
+
+[[CURRENCIES]]
+code="MyTT1"
+issuer="GAMR5HWIHFRLJGLBWWIXO43GYRDK32W5S3GO7WATS64KL3KCF2D6OHIZ"
+name="MYTOKEN"
+desc="MyTT1 is a Pi Testnet token created for educational and development purposes."
+status="live"
+display_decimals=7
+image="https://vimalpi.github.io/pitoken1/logo.png"
+# update
